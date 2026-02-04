@@ -13,7 +13,7 @@ The objective of this project was to strengthen my skills in **SQL data cleaning
 ---
 
 ## 📁 Dashboard File
-📊 **Retail Sales Dashboard.xlsx** — Contains all pivot tables, formulas, KPIs, and final visualizations used in this project.
+📊 **[Retail Sales Dashboard.xlsx](https://github.com/saatyarth0907/Retail-Sales-Analytics-Dashboard/blob/main/Retail%20Sales%20Analytics%20Dashboard.xlsx)** — Contains all pivot tables, formulas, KPIs, and final visualizations used in this project.
 
 ---
 
